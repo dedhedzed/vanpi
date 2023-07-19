@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/Pekaway/VAN_PI/main/assets/logo/vanpi_logo.png" alt="Logo" >
 
   <p align="center">
-    ALL IN ONE RASPBERRY BASED MOBILE SMART HOME ENVIRONMENT
+    ALL IN ONE RASPBERRY PI BASED MOBILE SMART HOME ENVIRONMENT
     <br/>
     <br/>
     <a target="_blank" href="https://github.com/Pekaway/VAN_PI/wiki"><strong>Explore the docs</strong></a>
@@ -43,7 +43,7 @@ We took care of a simple startup to make this project also accessible for non-pr
 For the developers is a Node-RED backend and various Python scripts for expansion and improvement ready.
 
  
-**you can find the hardware for this project in our store, or just built it yourself**
+**you can find the hardware for this project in our store, or just build it yourself**
 
 <p align="left">
     <a href="https://vanpi.de"><img src="https://github.com/Pekaway/VAN_PI/blob/main/assets/shop.png?raw=true" alt="Logo" width="100"> </a>
